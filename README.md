@@ -38,6 +38,7 @@ Les systèmes météorologiques sont complexes et dynamiques. Il est souvent dif
 
 ## 🏗️ Architecture du Projet
 
+```
 weather_visualizer/
 ├── src/
 │   ├── main.cpp
@@ -55,6 +56,8 @@ weather_visualizer/
 ├── thirdparty/
 ├── build.py
 └── README.md
+
+```
 
 
 
